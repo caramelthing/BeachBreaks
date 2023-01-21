@@ -1,0 +1,11 @@
+Where:Manorbier Area:Pembrokeshire Wave:right Level:Advanced Swell:South:South-est Wind:north-east Tide:mid Parking:yes
+Where:Llantwit Area:Major-Glamorgan Wave:both Level:Advanced Swell:South-west Wind:north-east Tide:all Parking:yes
+Where:Porthcawl Area:Glamorgan Wave:both Level:beginner Swell:South:South-west Wind:north-east Tide:all Parking:yes
+Where:New-gale Area:Pembrokeshire Wave:both Level:beginner Swell:South:South-west Wind:north Tide:east mid Parking:yes
+Where:langland Area:Gower Wave:left Level:intermediate Swell:South:South-west Wind:north-east Tide:mid Parking:yes
+Where:Freshwater Area:Pembrokeshire Wave:both Level:intermediate Swell:South:South-west Wind:east Tide:low,mid Parking:yes
+Where:Llangennith Area:Gower Wave:both Level:intermediate Swell:South:South-west Wind:east Tide:all Parking:yes
+Where:Hell's-Mouth Area:Llyn-Peninsula Wave:both Level:all Swell:South:South-west Wind:east Tide:all Parking:yes
+Where:Whitesands Area:Pembrokeshire Wave:both Level:beginner Swell:South:South-west Wind:east Tide:all Parking:yes
+Where:Coney-Beach Area:Porthcawl Wave:both Level:beginner Swell:South:South-west Wind:east Tide:High Parking:yes
+Where:Oxwich-Bay Area:Gower Wave:both Level:beginner Swell:South:South-west Wind:north Tide:all Parking:yes
